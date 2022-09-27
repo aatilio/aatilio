@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **full stack web development**
 
-- 👨‍💻 My GitHub Page  [https://luisdur8.github.io/pagina-beta](https://luisdur8.github.io/)
+- 👨‍💻 My GitHub Page  [https://alanatilio.github.io/](https://alanatilio.github.io/)
 
 - 💬 Ask me about **maths**
 
@@ -19,8 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/alanatilio_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alanatilio_" height="30" width="40" /></a>
-<a href="https://fb.com/luis.dur.56" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="luis.dur.56" height="30" width="40" /></a>
-
+<a href="https://fb.com/alanarapa15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alanarapa15" height="30" width="40" /></a>
 <a href="https://discord.gg/alanatilio#9781" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="alanatilio#9781" height="30" width="40" /></a>
 </p>
 
