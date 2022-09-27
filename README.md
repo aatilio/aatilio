@@ -1,15 +1,13 @@
 <img align="center" src="https://github.com/alanatilio/alanatilio/blob/main/dev.gif" alt="Gif de Developer"/>
-<h1 align="center">Hi 👋, I'm alan atilio</h1>
-<h3 align="center">Enthusiastic about helping my community and learning from others.</h3>
-<br><br>
+<h1 align="center">Hi 👋, I'm alan atilio 😊</h1>
+<h3 align="center">Enthusiastic about helping my community and learning from others. 🚀</h3>
+<br>
 
 - 🌱 I’m currently learning **full stack web development**
 
 - 👨‍💻 My GitHub Page  [https://alanatilio.github.io/](https://alanatilio.github.io/)
 
-- 💬 Ask me about **maths**
-
-- 📫 How to reach me **atilioalan@outlook.com**
+- 📩 How to reach me **atilioalan@outlook.com**
 
 <hr>
 <h3 align="left">Connect with me:</h3>
