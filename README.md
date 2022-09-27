@@ -1,6 +1,10 @@
-<img align="center" src="https://github.com/alanatilio/alanatilio/blob/main/dev.gif" alt="Gif de Developer" width= 1000px height=580px border-radius=10px;/>
+<img align="center" src="https://github.com/alanatilio/alanatilio/blob/main/dev.gif" alt="Gif de Developer" width= 1000px height=580px/>
 <h1 align="center">Hi 👋, I'm alan atilio 😊</h1>
 <h3 align="center">💻 Enthusiastic about helping my community and learning from others. 🚀</h3>
+
+- 👀 I’m interested in <b> learning about web3 development.</b>
+
+- 💞️ I’m looking to collaborate with programmers from all over the world, learn about their way of working, their methodology and above all to create long-term synergies. ✌😉
 
 - 🌱 I’m currently learning **full stack web development**
 
