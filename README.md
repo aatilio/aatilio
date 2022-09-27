@@ -1,7 +1,12 @@
-<img align="center" src="https://github.com/alanatilio/alanatilio/blob/main/dev.gif" alt="Gif de Developer"/>
+<img align="center" src="https://github.com/alanatilio/alanatilio/blob/main/dev.gif" alt="Gif de Developer" width= 200px height=200px/>
 <h1 align="center">Hi 👋, I'm alan atilio 😊</h1>
 <h3 align="center">💻 Enthusiastic about helping my community and learning from others. 🚀</h3>
-<br>
+
+<style type="text/css">
+    img.pequeña{width: 50px; height: 50px;}
+    img.mediana{width: 100px; height: 100px;}
+    img.grande{width: 200px; height: 200px;}
+  </style>
 
 - 🌱 I’m currently learning **full stack web development**
 
