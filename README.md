@@ -1,6 +1,6 @@
 <img align="center" src="https://github.com/alanatilio/alanatilio/blob/main/dev.gif" alt="Gif de Developer"/>
 <h1 align="center">Hi 👋, I'm alan atilio 😊</h1>
-<h3 align="center">Enthusiastic about helping my community and learning from others. 🚀</h3>
+<h3 align="center">💻 Enthusiastic about helping my community and learning from others. 🚀</h3>
 <br>
 
 - 🌱 I’m currently learning **full stack web development**
