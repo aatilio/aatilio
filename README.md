@@ -1,4 +1,4 @@
-<img align="center" src="https://github.com/alanatilio/alanatilio/blob/main/dev.gif" alt="Gif de Developer" width= 1000px height=500px/>
+<img align="center" src="https://github.com/alanatilio/alanatilio/blob/main/dev.gif" alt="Gif de Developer" width= 1000px height=680px/>
 <h1 align="center">Hi 👋, I'm alan atilio 😊</h1>
 <h3 align="center">💻 Enthusiastic about helping my community and learning from others. 🚀</h3>
 
