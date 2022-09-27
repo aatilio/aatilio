@@ -1,9 +1,7 @@
-<img align="center" src="https://github.com/luisDur8/luisDur8/blob/main/code.gif" alt="Gif de Developer"/>
+<img align="center" src="https://github.com/luisDur8/luisDur8/blob/main/dev.gif" alt="Gif de Developer"/>
 <h1 align="center">Hi 👋, I'm alan atilio</h1>
 <h3 align="center">Enthusiastic about helping my community and learning from others.</h3>
 <br><br>
-
-- 🔭 I’m currently working on [Talento Sistemas](https://discord.gg/fNYZPwaKF4)
 
 - 🌱 I’m currently learning **full stack web development**
 
@@ -19,7 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/alanatilio_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alanatilio_" height="30" width="40" /></a>
-<a href="https://fb.com/alanarapa15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alanarapa15" height="30" width="40" /></a>
+<a href="https://web.facebook.com/aalanatilio/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aalanatilio" height="30" width="40" /></a>
 <a href="https://discord.gg/alanatilio#9781" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="alanatilio#9781" height="30" width="40" /></a>
 </p>
 
