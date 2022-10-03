@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **full stack web development**
 
-- 👨‍💻 My Portfolio [https://alanatilio/](https://alanatilio.github.io/)
+- 👨‍💻 My Portfolio [alanatilio](https://alanatilio.github.io/)
 
 - 📩 How to reach me **atilioalan@outlook.com**
 
