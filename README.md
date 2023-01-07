@@ -13,11 +13,11 @@
 
 - 🌱 I’m currently learning **full stack web development**
 
-- 👨‍💻 My Porfolio [sorian](<a href="https://www.sorian.ml/" target="_blank"></a>)
+- 👨‍💻 My Porfolio <a href="https://www.sorian.ml/" target="_blank">[Sorian]</a>
 
-- 💱 Cryptocurrency pairs [crypto](<a href="https://www.sorian.ml/crypto/" target="_blank"></a>)
+- 💱 Cryptocurrency pairs <a href="https://www.sorian.ml/crypto/" target="_blank">[Crypto]</a>
 
-- 🗃️ Project under construction [Araho](<a href="https://www.beta.araho.ga" target="_blank"></a> )
+- 🗃️ Project under construction <a href="https://www.beta.araho.ga" target="_blank">[Araho]</a> 
 
 - 📩 How to reach me **atilioalan@outlook.com**
 
