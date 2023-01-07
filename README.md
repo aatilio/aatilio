@@ -1,7 +1,5 @@
 <!--<img align="center" display = "block" margin-left = "auto" margin-right = "auto" src="https://github.com/alanatilio/alanatilio/blob/main/api.gif" alt="Gif de Developer"/>-->
 
-![](https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif)
-
 <a href=#><img src="tab/contributions.svg"></a>
 
 <p align="center"> 
