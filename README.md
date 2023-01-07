@@ -21,6 +21,12 @@
 
 - 📩 How to reach me **atilioalan@outlook.com**
 
+<br>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/daweedkob/count.svg" />
+</p>
+
 <hr>
 
 <h3 align="left">Programming languages and tools:</h3>
@@ -81,7 +87,4 @@
     </a> 
 </p>
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/daweedkob/count.svg" />
-</p>
+
