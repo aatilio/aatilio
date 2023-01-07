@@ -2,7 +2,7 @@
 
 ![](https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif)
 
-<a href=#><img src="tap/contributions.svg"></a>
+<a href=#><img src="tab/contributions.svg"></a>
 
 <p align="center"> 
   Visitor count<br>
