@@ -17,7 +17,7 @@
 
 - 💱 Cryptocurrency pairs <a href="https://www.sorian.ml/crypto/" target="_blank">Crypto</a>
 
-- 🗃️ Project under construction <a href="https://www.beta.araho.ga" target="_blank">Araho</a>
+- 🗃️ Project under construction <a href="https://www.araho.ga" target="_blank">Araho</a>
 
 - 📩 How to reach me **atilioalan@outlook.com**
 
