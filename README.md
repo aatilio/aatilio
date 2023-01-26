@@ -88,4 +88,14 @@
     <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="40" height="40" alt="Sass" />
     </a>
+    <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="NPM" width="40" height="40" alt="npm" />
+    </a>
+    <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="40" height="40"  alt="nodejs" />
+    </a>
 </p>
+
+[![Christy's github stats](https://github-readme-stats.vercel.app/api?username=aatilio&count_private=true&show_icons=true&theme=vue)](https://github.com/aatilio)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aatilio&layout=compact&langs_count=8&theme=vue)](https://github.com/aatilio)
