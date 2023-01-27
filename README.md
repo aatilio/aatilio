@@ -31,9 +31,28 @@
   <img src="https://profile-counter.glitch.me/daweedkob/count.svg" />
 </p>-->
 
-<hr>
+<h4 align="center">📟 My GitHub Stats </h4>
+<p align="center">
+  <a href="https://github.com/aatilio">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aatilio&layout=compact&langs_count=8&theme=tokyonight"/>
+  </a>
+</p>
+<h4 align="center">🧮 My Github Statistics </h4>
+<p align="center">
+  <a href="https://github.com/aatilio">
+    <img src="https://github-readme-stats.vercel.app/api?username=aatilio&count_private=true&show_icons=true&theme=tokyonight"/>
+  </a>
+</p>
+<h4 align="center">📇 My contributions </h4>
+<p align="center">
+  <a href="https://github.com/aatilio">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aatilio&theme=tokyonight"/>
+  </a>
+</p>
 
-<h3 align="left">Programming languages and tools:</h3>
+<br>
+
+<h4 align="left">Programming languages and tools:</h4>
 <p align="left"> 
     <a href="https://angular.io" target="_blank" rel="noreferrer"> 
         <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> 
@@ -98,23 +117,4 @@
     <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="40" height="40"  alt="nodejs" />
     </a>
-</p>
-
-<h4 align="center">📟 My GitHub Stats </h4>
-<p align="center">
-  <a href="https://github.com/aatilio">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aatilio&layout=compact&langs_count=8&theme=tokyonight"/>
-  </a>
-</p>
-<h4 align="center">🧮 My Github Statistics </h4>
-<p align="center">
-  <a href="https://github.com/aatilio">
-    <img src="https://github-readme-stats.vercel.app/api?username=aatilio&count_private=true&show_icons=true&theme=tokyonight"/>
-  </a>
-</p>
-<h4 align="center">📇 My contributions </h4>
-<p align="center">
-  <a href="https://github.com/aatilio">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aatilio&theme=tokyonight"/>
-  </a>
 </p>
