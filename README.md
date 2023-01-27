@@ -98,11 +98,15 @@
 <h1 align="center">Most Used Languages and GitHub Stats</h1>
 <p align="center"> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aatilio&layout=compact&langs_count=8&theme=vue)](https://github.com/aatilio)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aatilio&layout=compact&langs_count=8&theme=tokyonight)](https://github.com/aatilio)
+
+ <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=aatilio&theme=tokyonight" />
 
 </p>
 <p align="center"> 
 
-[![Christy's github stats](https://github-readme-stats.vercel.app/api?username=aatilio&count_private=true&show_icons=true&theme=vue)](https://github.com/aatilio)
+[![Christy's github stats](https://github-readme-stats.vercel.app/api?username=aatilio&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/aatilio)
+
+
 
 </p>
