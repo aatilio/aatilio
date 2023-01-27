@@ -15,6 +15,11 @@
 
 <a href=#><img src="tab/contributions.svg"></a>
 
+
+[![Christy's github stats](https://github-readme-stats.vercel.app/api?username=aatilio&count_private=true&show_icons=true&theme=vue)](https://github.com/aatilio)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aatilio&layout=compact&langs_count=8&theme=vue)](https://github.com/aatilio)
+
 <h1 align="center">Hi 👋, I'm alan atilio</h1>
 <h3 align="center">💻 Enthusiastic about helping my community and learning from others. 🚀</h3>
 
@@ -108,13 +113,17 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="40" height="40"  alt="nodejs" />
     </a>
 </p>
+
+<h1 align="center">Hi 👋, I'm alan atilio</h1>
 <div class="row">
-        <div class="colum">
-            [![Christy's github
-            stats](https://github-readme-stats.vercel.app/api?username=aatilio&count_private=true&show_icons=true&theme=vue)](https://github.com/aatilio)
-        </div>
-        <div class="colum">
-            [![Top
-            Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aatilio&layout=compact&langs_count=8&theme=vue)](https://github.com/aatilio)
-        </div>
-    </div>
+<div class="colum">
+
+[![Christy's github stats](https://github-readme-stats.vercel.app/api?username=aatilio&count_private=true&show_icons=true&theme=vue)](https://github.com/aatilio)
+
+</div>
+<div class="colum">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aatilio&layout=compact&langs_count=8&theme=vue)](https://github.com/aatilio)
+
+</div>
+</div>
