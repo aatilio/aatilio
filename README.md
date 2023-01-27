@@ -49,9 +49,9 @@
   </a>
 </p>
 
-<bh>
+<hr>
 
-<h3 align="left">Programming languages and tools:</h3>
+<h3 align="center">📱 Programming languages and tools:</h3>
 <p align="left"> 
     <a href="https://angular.io" target="_blank" rel="noreferrer"> 
         <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> 
