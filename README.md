@@ -6,7 +6,7 @@
     </a>
 </h1>
 
-<h4 align="center">💻 Enthusiastic about helping my community and learning from others. 🚀</h4>
+<h3 align="center">💻 Enthusiastic about helping my community and learning from others. 🚀</h3>
 
 <p align="center"> 
     - 💞️ I’m looking to collaborate with programmers from all over the world, learn about their way of working, their methodology and above all to create long-term synergies. 💪 😉 🤙
@@ -25,34 +25,33 @@
 
 - 📩 How to reach me **atilioalan@outlook.com**
 
-<br>
 <!--<p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/daweedkob/count.svg" />
 </p>-->
 
-<h4 align="center">📟 My GitHub Stats </h4>
+<h3 align="center">📟 My GitHub Stats </h3>
 <p align="center">
   <a href="https://github.com/aatilio">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aatilio&layout=compact&langs_count=8&theme=tokyonight"/>
   </a>
 </p>
-<h4 align="center">🧮 My Github Statistics </h4>
+<h3 align="center">🧮 My Github Statistics </h3>
 <p align="center">
   <a href="https://github.com/aatilio">
     <img src="https://github-readme-stats.vercel.app/api?username=aatilio&count_private=true&show_icons=true&theme=tokyonight"/>
   </a>
 </p>
-<h4 align="center">📇 My contributions </h4>
+<h3 align="center">📇 My contributions </h3>
 <p align="center">
   <a href="https://github.com/aatilio">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=aatilio&theme=tokyonight"/>
   </a>
 </p>
 
-<br>
+<bh>
 
-<h4 align="left">Programming languages and tools:</h4>
+<h3 align="left">Programming languages and tools:</h3>
 <p align="left"> 
     <a href="https://angular.io" target="_blank" rel="noreferrer"> 
         <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> 
