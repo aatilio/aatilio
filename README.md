@@ -1,8 +1,11 @@
 <!--<img align="center" display = "block" margin-left = "auto" margin-right = "auto" src="https://github.com/alanatilio/alanatilio/blob/main/api.gif" alt="Gif de Developer"/>-->
 
-<a href=#><img src="tab/contributions.svg"></a>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;+This+is+Alan+Atilio;Nice+too+-meet+you!&center=true&size=30">
+  </a>
+</h1>
 
-<h1 align="center">Hi 👋, I'm alan atilio</h1>
 <h3 align="center">💻 Enthusiastic about helping my community and learning from others. 🚀</h3>
 
 - 👀 I’m interested in <b> learning about web3 development.</b>
@@ -10,6 +13,8 @@
 <p align="center"> 
     - 💞️ I’m looking to collaborate with programmers from all over the world, learn about their way of working, their methodology and above all to create long-term synergies. ✌😉
 </p>
+
+<a href=#><img src="tab/contributions.svg"></a>
 
 - 🌱 I’m currently learning **full stack web development**
 
@@ -95,18 +100,23 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="40" height="40"  alt="nodejs" />
     </a>
 </p>
-<h1 align="center">Most Used Languages and GitHub Stats</h1>
-<p align="center"> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aatilio&layout=compact&langs_count=8&theme=tokyonight)](https://github.com/aatilio)
-
- <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=aatilio&theme=tokyonight" />
-
+<h2 align="center">My GitHub Stats 📟</h2>
+<p align="center">
+  <a href="https://github.com/aatilio">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aatilio&layout=compact&langs_count=8&theme=tokyonight"/>
+  </a>
 </p>
-<p align="center"> 
 
-[![Christy's github stats](https://github-readme-stats.vercel.app/api?username=aatilio&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/aatilio)
-
-
-
+<h2 align="center">My contributions 🎑</h2>
+<p align="center">
+  <a href="https://github.com/aatilio">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aatilio&theme=tokyonight"/>
+  </a>
+</p> 
+<h2 align="center">My Github Statistics 🧮</h2>
+<p align="center">
+  <a href="https://github.com/aatilio">
+    <img src="https://github-readme-stats.vercel.app/api?username=aatilio&count_private=true&show_icons=true&theme=tokyonight"/>
+  </a>
 </p>
