@@ -1,20 +1,19 @@
 <!--<img align="center" display = "block" margin-left = "auto" margin-right = "auto" src="https://github.com/alanatilio/alanatilio/blob/main/api.gif" alt="Gif de Developer"/>-->
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;+This+is+Alan+Atilio;Nice+too+-meet+you!&center=true&size=30">
-  </a>
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=4500&pause=1000&color=0FFFD8&background=18FF3100&width=437&height=53&lines=Hello!+%E2%9C%8B;I'm+++Alan+Atilio++%F0%9F%AA%AA;Nice+to+meet+you+%F0%9F%8D%80" alt="Typing SVG" />
+    </a>
 </h1>
 
 <h3 align="center">💻 Enthusiastic about helping my community and learning from others. 🚀</h3>
 
-- 👀 I’m interested in <b> learning about web3 development.</b>
-
 <p align="center"> 
     - 💞️ I’m looking to collaborate with programmers from all over the world, learn about their way of working, their methodology and above all to create long-term synergies. ✌😉
 </p>
-
-<a href=#><img src="tab/contributions.svg"></a>
+<p align="center"> 
+    <a href=#><img src="tab/contributions.svg"></a>
+</p>
 
 - 🌱 I’m currently learning **full stack web development**
 
@@ -104,18 +103,18 @@
 <h2 align="center">📟 My GitHub Stats </h2>
 <p align="center">
   <a href="https://github.com/aatilio">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aatilio&layout=compact&langs_count=8&theme=dark"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aatilio&layout=compact&langs_count=8&theme=tokyonight"/>
   </a>
 </p>
 <h2 align="center">🧮 My Github Statistics </h2>
 <p align="center">
   <a href="https://github.com/aatilio">
-    <img src="https://github-readme-stats.vercel.app/api?username=aatilio&count_private=true&show_icons=true&theme=dark"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=aatilio&count_private=true&show_icons=true&theme=tokyonight"/>
   </a>
 </p>
 <h2 align="center">🎑 My contributions </h2>
 <p align="center">
   <a href="https://github.com/aatilio">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aatilio&theme=dark"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aatilio&theme=tokyonight"/>
   </a>
 </p>
