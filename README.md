@@ -6,10 +6,10 @@
     </a>
 </h1>
 
-<h3 align="center">💻 Enthusiastic about helping my community and learning from others. 🚀</h3>
+<h4 align="center">💻 Enthusiastic about helping my community and learning from others. 🚀</h4>
 
 <p align="center"> 
-    - 💞️ I’m looking to collaborate with programmers from all over the world, learn about their way of working, their methodology and above all to create long-term synergies. ✌😉
+    - 💞️ I’m looking to collaborate with programmers from all over the world, learn about their way of working, their methodology and above all to create long-term synergies. 💪 😉 🤙
 </p>
 <p align="center"> 
     <a href=#><img src="tab/contributions.svg"></a>
@@ -100,19 +100,19 @@
     </a>
 </p>
 
-<h2 align="center">📟 My GitHub Stats </h2>
+<h4 align="center">📟 My GitHub Stats </h4>
 <p align="center">
   <a href="https://github.com/aatilio">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aatilio&layout=compact&langs_count=8&theme=tokyonight"/>
   </a>
 </p>
-<h2 align="center">🧮 My Github Statistics </h2>
+<h4 align="center">🧮 My Github Statistics </h4>
 <p align="center">
   <a href="https://github.com/aatilio">
     <img src="https://github-readme-stats.vercel.app/api?username=aatilio&count_private=true&show_icons=true&theme=tokyonight"/>
   </a>
 </p>
-<h2 align="center">🎑 My contributions </h2>
+<h4 align="center">📇 My contributions </h4>
 <p align="center">
   <a href="https://github.com/aatilio">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=aatilio&theme=tokyonight"/>
