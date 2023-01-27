@@ -27,10 +27,10 @@
 - 📩 How to reach me **atilioalan@outlook.com**
 
 <br>
-<p align="center"> 
+<!--<p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/daweedkob/count.svg" />
-</p>
+</p>-->
 
 <hr>
 
@@ -101,22 +101,21 @@
     </a>
 </p>
 
-<h2 align="center">My GitHub Stats 📟</h2>
+<h2 align="center">📟 My GitHub Stats </h2>
 <p align="center">
   <a href="https://github.com/aatilio">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aatilio&layout=compact&langs_count=8&theme=tokyonight"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aatilio&layout=compact&langs_count=8&theme=dark"/>
   </a>
 </p>
-
-<h2 align="center">My contributions 🎑</h2>
+<h2 align="center">🧮 My Github Statistics </h2>
 <p align="center">
   <a href="https://github.com/aatilio">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aatilio&theme=tokyonight"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=aatilio&count_private=true&show_icons=true&theme=dark"/>
   </a>
-</p> 
-<h2 align="center">My Github Statistics 🧮</h2>
+</p>
+<h2 align="center">🎑 My contributions </h2>
 <p align="center">
   <a href="https://github.com/aatilio">
-    <img src="https://github-readme-stats.vercel.app/api?username=aatilio&count_private=true&show_icons=true&theme=tokyonight"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aatilio&theme=dark"/>
   </a>
 </p>
