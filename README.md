@@ -19,11 +19,11 @@
 
 - 👨‍💻 My Porfolio <a href="https://alan.arahocorp.com/" target="_blank">alanatilio.com</a>
 
-- 🗃️ Project under construction <a href="https://www.arahocorp.com" target="_blank">arahocorp.com</a>
+- 🗃️ Project under construction <a href="https://www.arahocorp.com" target="_blank">www.arahocorp.com</a>
 
-- 💱 Cryptocurrency pairs <a href="https://www.arahocorp.com/crypto/" target="_blank">Crypto</a>
+- 💱 Project GQR.com <a href="https://www.generadqr.com/" target="_blank">Generadqr.com</a>
 
-- 📩 How to reach me **atilioalan@outlook.com**
+- 📩 How to reach me **alan@arahocorp.com**
 
 <!--<p align="center"> 
   Visitor count<br>
