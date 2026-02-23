@@ -21,8 +21,6 @@
 
 - 🗃️ Project under construction <a href="https://www.arahocorp.com" target="_blank">www.arahocorp.com</a>
 
-- 💱 Project GQR.com <a href="https://www.generadqr.com/" target="_blank">Generadqr.com</a>
-
 - 📩 How to reach me **alan@arahocorp.com**
 
 <!--<p align="center"> 
