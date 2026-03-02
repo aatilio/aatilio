@@ -1,4 +1,4 @@
- <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=08A3FF&center=true&vCenter=true&width=500&lines=%F0%9F%91%8B+Hello+World!;%F0%9F%94%96+I'm+Alan+Condori+Arapa;%F0%9F%92%BB+Full+Stack+Developer;%F0%9F%9A%80+Always+Learning" alt="Typing SVG" /> </p>
+ <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=08A3FF&center=true&vCenter=true&width=500&lines=%F0%9F%91%8B+Hello+World!;%F0%9F%94%96+I'm+Alan;%F0%9F%92%BB+Full+Stack+Developer;%F0%9F%9A%80+Always+Learning" alt="Typing SVG" /> </p>
 
 <!-- <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aatilio&theme=tokyonight&no-frame=true&column=7" alt="github profile trophy" /></a>
